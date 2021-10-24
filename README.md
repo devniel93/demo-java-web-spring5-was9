@@ -13,9 +13,7 @@ Project demo Java + Spring 5 + Spring MVC deployed to WAS Websphere App Server 9
 C:\Program Files\IBM\WebSphere\AppServer\java\8.0\bin\javaw.exe
 2. Run Eclipse as Administrator
 3. Create new server WAS as name WAS9
-[imagen]
 4. Configure path Maven in Eclipse > Windows > Preferences > Maven > Installation > Add 
-[imagen]
 
 ## Run Project
 1. Import both projecs in Eclipse as "Existing projects into Workspace"
